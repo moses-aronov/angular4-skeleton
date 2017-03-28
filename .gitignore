@@ -1,3 +1,5 @@
 /node_modules
 /dist
 /.vscode
+/firefox_root
+npm-debug.log
